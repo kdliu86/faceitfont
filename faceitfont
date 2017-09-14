@@ -1,0 +1,3 @@
+body, p, div, textarea {
+    font-family: arial !important;
+}
